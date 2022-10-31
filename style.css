@@ -1,0 +1,40 @@
+.lista {
+    display: flex;
+    border-right: 30px;
+    height: 100px;
+    padding: 30px;
+    margin: 10px;
+    
+}
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+li{
+    margin: 15px;
+    padding: 15px;
+}
+
+img{
+    width: 100px;
+    }
+
+
+.formulario {
+    margin-top: 100px;
+    text-align: center;
+
+}
+.box {
+    padding: 10px;
+}
+
+.inputdemail{
+    margin-left: 23px;
+}
+
+.btn {
+    margin-top: 10px;
+}
